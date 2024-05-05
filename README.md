@@ -1,7 +1,7 @@
 # Semi-Supervised Denoising Diffusion Model for All-in-One Adverse Weather Removal
 
 ## Introduction
-This is the official repository for our recent paper, "Semi-Supervised Denoising Diffusion Model for All-in-One Adverse Weather Removal", where more implementation details are presented.
+This is the official repository for our recently submitted paper titled ``Semi-Supervised Denoising Diffusion Model for All-in-One Adverse Weather Removal", where more implementation details are presented.
 
 ## Abstract
 Adverse weather removal aims to restore clear vision in adverse weather conditions. Despite the recent remarkable progress, existing methods are mostly tailored for specific weather types and rely heavily on large amounts of pairwise labeled data. Unlike previous arts, in this paper, we make the first attempt to propose a semi-supervised learning framework named SemiDDM-Weather, ingeniously integrating an accelerated Denoising Diffusion Model (DDM) into a standard teacher-student network, which achieves consistent visually highquality all-in-one adverse weather removal with limited labeled data. Specifically, to improve the accuracy of pseudo-labels for
